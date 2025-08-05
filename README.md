@@ -135,3 +135,16 @@ nginx-1.16.0
 Vue
 
 展示界面
+
+![微信截图_20240801161547](https://github.com/user-attachments/assets/3b2bc1bc-ff88-4058-a2aa-da882ac9dcd3)
+![微信截图_20240801161540](https://github.com/user-attachments/assets/a9b739a8-3a67-446e-9cad-0252518ad67d)
+![微信截图_20240801161532](https://github.com/user-attachments/assets/487a427c-56f6-40ca-a585-df0d4365aeba)
+![微信截图_20240801161527](https://github.com/user-attachments/assets/d43b4186-17a9-4cb7-b39f-9de53074ddc5)
+![微信截图_20240801161502](https://github.com/user-attachments/assets/aab2751c-2b6e-4a6c-b44d-ce0d3f5c22d6)
+![微信截图_20240801161451](https://github.com/user-attachments/assets/720bf853-a80d-4d72-9120-7359f5548e24)
+![微信截图_20240801161445](https://github.com/user-attachments/assets/1bc98d98-1bda-452b-a76c-0011ada944bd)
+![微信截图_20240801161437](https://github.com/user-attachments/assets/924601d0-c8b7-4c9a-a2a6-4379fd139814)
+![微信截图_20240801161426](https://github.com/user-attachments/assets/39e0c963-f7fc-4719-95b5-7bf79bf196ca)
+![微信截图_20240801161418](https://github.com/user-attachments/assets/f61d9d00-9019-4fab-9930-3d6f28c4a11e)
+
+
